@@ -1,6 +1,9 @@
 {
   "data": [
-    { "id": "cmp001", "name": "キャンペーンA", "entity_status": "ACTIVE" },
-    { "id": "cmp002", "name": "キャンペーンB", "entity_status": "PAUSED" }
+    {
+      "id": "1234567890",
+      "name": "Sample Campaign",
+      "entity_status": "ACTIVE"
+    }
   ]
 }
